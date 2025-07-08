@@ -3,14 +3,16 @@
 # Data-Analyst-Internship-at-ElevateLabs-Task-7
 ---
 
-**Dataset from kaggle:** `sales_data.csv`
-**Data cleaning and preprocessing:** `Elevate_Labs_Internship_Task-06`
-**Cleaned Dataset:** `cleaned_sales_data.csv`
+- **Dataset from kaggle:** `sales_data.csv`
+- **Data cleaning and preprocessing:** `Elevate_Labs_Internship_Task-06`
+- **Cleaned Dataset:** `cleaned_sales_data.csv`
 
 ---
+
 - Using the DB Browser for SQLite, we can create a new database called sales_data.db and import the cleaned_sales_data.csv file into the new database as a table.
 
 # Now, the data visualisation can be performed using the sales_data.db Here is a brief overview of the process:
+
 ---
 
   - Import the required modules (sqlite3, pandas, and matplotlib).
@@ -23,7 +25,7 @@
 
 ---
 
-**  Top 10 products with the most sales(revenue) in the form of a bar chart **
+**Top 10 products with the most sales(revenue) in the form of a bar chart**
 
 ---
 
